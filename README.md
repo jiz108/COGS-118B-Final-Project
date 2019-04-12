@@ -11,7 +11,7 @@ Presentation:
 https://www.youtube.com/watch?v=dj2n-agCJis
 
 Purpose:
-	The house evaluation is important in sale. For example, when a person want to sell his house, he can use our predictor to know how much his house is worthed. Also, house sale agents will get the value of a horse automatically after they input the informations. Our models make the sale more Convenient.
+	The house evaluation is important in the sale. For example, when a person wants to sell his house, he can use our predictor to know how much his house is worthed. Also, house sale agents will get the value of a horse automatically after they input the information. Our models make the sale more Convenient.
 
 Language we use: 
 Python
