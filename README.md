@@ -17,4 +17,4 @@ Language we use:
 Python
 
 Summary:
-	We are going to train some predictors to give us the price of a specific house. The models we want to use is: KNN, linear regression, and random forest. The data from kaggle is a csv file which contain about 80 features, such as overall quality, overall condition, location, air condition, garden area, and house area. We are going to analysis the data by data distribution, feature correlation. Then we will preposse the data via different method, train the model, and then calculate the training result.
+	We are going to train some predictors to give us the price of a specific house. The models we want to use is KNN, linear regression, and random forest. The data from Kaggle is a csv file which contains about 80 features, such as overall quality, overall condition, location, air condition, garden area, and house area. We are going to analyze the data by data distribution, feature correlation. Then we will preprocess the data via different method, train the model, and then calculate the training result.
