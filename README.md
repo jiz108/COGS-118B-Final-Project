@@ -1,5 +1,4 @@
-# COGS-118B-Final-Project
-House Price Prediction
+# House Price Prediction
 
 Team: 
 Hepu Jin,  Jingtao Zheng,  Ruiqi Bi,  Jiawei Zhou
