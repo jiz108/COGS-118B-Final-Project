@@ -1,7 +1,5 @@
 # House Price Prediction
 
-Team: 
-Hepu Jin,  Jingtao Zheng,  Ruiqi Bi,  Jiawei Zhou
 
 Data in use:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
